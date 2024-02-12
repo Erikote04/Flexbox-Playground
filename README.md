@@ -159,7 +159,7 @@
 }
 
 .i3 {
-	height: 200px;
+    height: 200px;
 }
 ```
 
