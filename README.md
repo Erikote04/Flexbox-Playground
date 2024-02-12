@@ -1,3 +1,13 @@
+# Flexbox Playground
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/Erikote04/Flexbox-Playground.git`
+
+2. Open the `index.html` file in a web browser.
+
+3. Follow the steps down below and become a master in Flexbox
+   
 ## Flexbox Properties
 
 ### Container
@@ -22,7 +32,7 @@
 /* Last 3 properties con be resumed as flex: 0 1 auto */
 ```
 
-### Playground roadmap
+### Roadmap
 
 #### `display: flex`
 ```css
